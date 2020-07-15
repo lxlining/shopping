@@ -1,2 +1,4 @@
-# shopping
-bootstrap+php实现的购物网站，自适应页面大小
+＃购物 
+bootstrap + php +MySQL实现的购物网站，自适应页面大小 
+同一般购物网站同，未建造支付通道
+其余功能几乎能完全实现
